@@ -1,2 +1,2 @@
-# presentations
-All presentations i've done
+# Presentations
+Presentations I've done
